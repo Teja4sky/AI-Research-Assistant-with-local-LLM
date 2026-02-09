@@ -60,6 +60,7 @@ Retrieval Sources:
 - Local PDF parsing using PyMuPDF
 
 ---
+## Application Preview
 
 <img width="1760" height="891" alt="image" src="https://github.com/user-attachments/assets/e547a831-efff-4dbd-b6bc-ccf1beba0cea" />
 
@@ -100,5 +101,6 @@ Run the application:
 
 CH Teja Surya  
 Computer Science Engineering  
-Specialization: Cybersecurity, AI, Local LLM Systems ,IOT and Cloud Computing
+Specialization: Cybersecurity, Artificial Intelligence, Retrieval-Augmented Generation (RAG), Local LLM Systems, and Cloud Computing
+
 
