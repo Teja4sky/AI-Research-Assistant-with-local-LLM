@@ -61,6 +61,10 @@ Retrieval Sources:
 
 ---
 
+<img width="1760" height="891" alt="image" src="https://github.com/user-attachments/assets/e547a831-efff-4dbd-b6bc-ccf1beba0cea" />
+
+---
+
 ## How to Run
 
 Install dependencies:
